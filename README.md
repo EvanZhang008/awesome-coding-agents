@@ -113,6 +113,7 @@
 | 👀 | [agent-doctrine](https://github.com/sisig-ai/agent-doctrine) | instructions, subagents, claude-code, codex, cursor | One doctrine synced into 7 agent hosts: a lead plans and delegates to scout, implementer and reviewer subagents behind a pre-code gate, and returns a tested PR. |
 | 👀 | [contribpolicy](https://github.com/pujitha24/contribpolicy) | agents-md, contribution-policy, pr-lint, deterministic | Find a repository's rules for AI-assisted contributions (CONTRIBUTING, AGENTS.md, linked AI policies, org-level policies) and lint a PR against them. |
 | 👀 | [akc-cycle](https://github.com/shimo4228/akc-cycle) | claude-code, plugin, skills-audit, rules-upkeep | Keeps the rules and skills in a Claude Code setup from piling up and going stale: a Claude Code plugin of audit and upkeep skills plus an optional always-loaded rules file, the installable form of the Agent Knowledge Cycle (AKC). |
+| 👀 | [obey](https://github.com/B0yko/obey) | agents-md, rule-checks, probes, hooks | Find out which rules in your AGENTS.md your coding agent actually follows |
 
 ## Knowledge & Context
 
